@@ -1,0 +1,12 @@
+[package]
+name = "arti-fact"
+version = "0.1.0"
+authors = ["Jackson Hong <jacksonxxhong@gmail.com>"]
+
+[dependencies]
+actix-web = "0.7"
+listenfd = "0.3"
+reqwest = "0.9.4"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
